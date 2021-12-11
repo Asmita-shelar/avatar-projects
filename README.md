@@ -1,5 +1,6 @@
 # avatar-projects
 TOPIC:Create a program to take user name as input and display following:-
+
   1.A random generated id->different everytime.
   2.Name of user
   3.Date and Time of the request
